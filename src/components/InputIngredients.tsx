@@ -3,7 +3,7 @@ import { IGetResponseRecipes } from "../utils/types";
 import axios from "axios";
 import { useAppDispatch } from "../hook";
 import { setResipes } from "../store/recipesSlice";
-import { Stack, Container, Form, InputGroup, Button } from "react-bootstrap";
+import { Stack, Form, Button } from "react-bootstrap";
 
 export function InputIngredients() {
   const [value, setValue] = useState<string>('');

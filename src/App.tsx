@@ -1,6 +1,6 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Stack, Container, Row, Form, InputGroup, Button } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import { InputIngredients } from './components/InputIngredients';
 import { Recipes } from './components/Recipes';
 import { Popup } from './components/Popup';
