@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Semen1996/cook-in-the-kitchen/static/css/main.88404e20.css",
+    "main.js": "/Semen1996/cook-in-the-kitchen/static/js/main.0fd6251b.js",
+    "static/js/787.2dda532a.chunk.js": "/Semen1996/cook-in-the-kitchen/static/js/787.2dda532a.chunk.js",
+    "index.html": "/Semen1996/cook-in-the-kitchen/index.html",
+    "main.88404e20.css.map": "/Semen1996/cook-in-the-kitchen/static/css/main.88404e20.css.map",
+    "main.0fd6251b.js.map": "/Semen1996/cook-in-the-kitchen/static/js/main.0fd6251b.js.map",
+    "787.2dda532a.chunk.js.map": "/Semen1996/cook-in-the-kitchen/static/js/787.2dda532a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.0fd6251b.js"
+  ]
+}
